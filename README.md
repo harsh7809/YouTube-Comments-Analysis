@@ -2,8 +2,8 @@ This project is a web application built with Django and NLTK-TextBlob for sentim
 
 Features:
 
-Input YouTube video URL to fetch comments
-Analyze sentiment of comments using NLTK-TextBlob
-Display percentage of positive, negative, and neutral sentiments
-Visualize sentiment distribution with a pie chart using D3.js
+>Input YouTube video URL to fetch comments
+>Analyze sentiment of comments using NLTK-TextBlob
+>Display percentage of positive, negative, and neutral sentiments
+>Visualize sentiment distribution with a pie chart using D3.js
 
