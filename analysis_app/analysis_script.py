@@ -2,7 +2,7 @@ import requests
 from textblob import TextBlob
 
 def analyze_comments(VIDEO_URL):
-    API_KEY = 'AIzaSyC680n4ioE22kqoh3gjpofHXeT3lEfEqa8'
+    API_KEY = 'Enter your Api-key'
     video_id = VIDEO_URL.split('v=')[1]
     url = f'https://www.googleapis.com/youtube/v3/commentThreads?key={API_KEY}&part=snippet&videoId={video_id}'
 
